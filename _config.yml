@@ -1,9 +1,8 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: Jefdf
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
-
+tagline: Hi, I'm Jeff.
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/harsh98trivedi.png
 
@@ -73,12 +72,12 @@ links:
     Icon-Class: fab fa-github
 
     # WordPress
-  - Name: WordPress.org
-    URL: 'https://profiles.wordpress.org'
-    Username: harsh98trivedi
-    Icon-Class: fa-brands fa-wordpress-simple
-    Color: '#0073AA'
-    Text_Color: '#ffffff'
+ # - Name: WordPress.org
+ #   URL: 'https://profiles.wordpress.org'
+ #   Username: harsh98trivedi
+ #   Icon-Class: fa-brands fa-wordpress-simple
+ #   Color: '#0073AA'
+ #   Text_Color: '#ffffff'
 
     # EMAIL
  # - Name: Email
@@ -104,12 +103,12 @@ links:
  #   Text_Color: '#ffffff'
 
     # VIMEO
-  - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: harshtrivedi
-    Icon-Class: fab fa-vimeo-v
-    Color: '#1ab7ea'
-    Text_Color: '#ffffff'
+ # - Name: Vimeo
+ #   URL: 'https://vimeo.com'
+ #   Username: harshtrivedi
+ #   Icon-Class: fab fa-vimeo-v
+ #   Color: '#1ab7ea'
+ #   Text_Color: '#ffffff'
 
     # MESSENGER
 #  - Name: Messenger
