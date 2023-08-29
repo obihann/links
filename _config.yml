@@ -274,7 +274,7 @@ links:
 
   - Name: Vero
     URL: https://vero.co/obihann
-    Icon-Class: fas fa-link
+    Icon-Class: fas fa-camera
     Color: '#d94869'
     Text_Color: '#ffffff'
 
