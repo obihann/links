@@ -4,10 +4,10 @@ name: Jeff
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Hi, I'm Jeff.
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/obihann/links/blob/master/assets/images/F5879511-46B0-403E-A449-B19A34C63A24_1_105_c.jpeg?raw=true
+Image_URL: https://raw.githubusercontent.com/obihann/links/master/assets/images/F5879511-46B0-403E-A449-B19A34C63A24_1_105_c.jpeg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://github.com/obihann/links/blob/3e68501ad841a583a36fab49471b3414a4073d36/assets/images/DDAB89D7-68F2-45E8-BCBE-6904272948BE_1_105_c.jpeg?raw=true
+Cover_Image: https://raw.githubusercontent.com/obihann/links/3e68501ad841a583a36fab49471b3414a4073d36/assets/images/DDAB89D7-68F2-45E8-BCBE-6904272948BE_1_105_c.jpeg
 
 # SOCIAL MEDIA
 links:
